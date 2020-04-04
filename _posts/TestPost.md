@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Welcome to test post"
+---
+
 # Title
 
 some explanation
