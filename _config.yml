@@ -8,5 +8,6 @@ user_description: I'm a human afterall!
 user_title: Software Engineer
 email: kiranbayram@gmail.com
 
+markdown: kramdown
 
 exclude: ['package.json', 'src' , 'node_modules']
